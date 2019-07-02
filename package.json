@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-blog",
+  "version": "1.0.0",
+  "description": "nodejs博客实战",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiShaozheli/nodejs-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiShaozheli/nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/LiShaozheli/nodejs-blog#readme"
+}
